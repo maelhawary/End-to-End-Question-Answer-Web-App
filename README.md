@@ -10,4 +10,4 @@ Install requirements using,
 Then, run the app as follows:
 ```bash
     streamlit run web-app.py
-```
+``
