@@ -12,7 +12,7 @@ from langchain.document_loaders import PyPDFLoader
 import pdfplumber
 import tempfile
 
-model_path="C:/Users/Momo/python/llm_models/google/flan-t5-base"
+model_path="google/flan-t5-base"
 model = AutoModelForSeq2SeqLM.from_pretrained(model_path)
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 
