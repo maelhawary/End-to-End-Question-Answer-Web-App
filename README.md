@@ -7,7 +7,8 @@ Install requirements using,
 
 ```bash
   pip install -r requirements.txt
-
+```
 Then, run the app as follows:
-
+```bash
     streamlit run web-app.py
+```
