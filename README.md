@@ -6,9 +6,9 @@ This is an LLM project for answering questions given any document context. By ru
 Install requirements using,
 
 ```bash
-  pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 Then, run the app as follows:
 ```bash
-    streamlit run web-app.py
+streamlit run web-app.py
 ```
