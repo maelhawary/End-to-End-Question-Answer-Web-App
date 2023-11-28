@@ -4,10 +4,12 @@ This is an LLM project for answering questions given any document context. By ru
 
 # To use
 Install requirements using,
+
 ```bash
   pip install -r requirements.txt
 ``
 Then, run the app as follows:
+
 ```bash
     streamlit run web-app.py
 ``
