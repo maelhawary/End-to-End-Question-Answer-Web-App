@@ -74,7 +74,7 @@ def read_pdf(file):
     return text
 
 
-st.set_page_config(layout='wide',page_title='Summarization APP')
+st.set_page_config(layout='wide',page_title='QA-web-APP')
 def main():
     st.title('PDF Question Answer Web-App')
 
